@@ -75,3 +75,20 @@ Lo que mas me ha costado, además de lo obvio del aprendizaje, ha sido utilizar 
 Por otro lado, el fichero era tan grande que me ha resultado una odisea abrirlo.
 
 Pero me alegra haber podido "probar" la herramienta.
+
+
+
+## Datos originales del proyecto
+
+Los archivos originales son muy pesados y GitHub no permite añadirlos al repo.  
+Por eso, no están dentro de `data/`. Se han publicado completos en la release del proyecto:
+
+[**v1.0.0 – Datos originales**](https://github.com/Fayna-Martin-Otamendi/proyecto_final_primer_curso/releases/tag/v1.0.0)
+
+Incluye:
+- Cost_of_Living_Index_by_Country_2024.csv
+- linkedin_job_postings.csv
+- job_skills.csv
+- empleo_coste_vida_2024.csv
+
+Son exactamente los mismos ficheros usados en el análisis y en el dashboard; solo se alojan en Releases para cumplir las limitaciones de GitHub.
